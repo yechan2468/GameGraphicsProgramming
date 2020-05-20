@@ -8,4 +8,4 @@ this homework is about rendering pipeline, texture, lighting, displacement mappi
 
 *****
 
-<img src="HW2_result/result.gif" width="175" height="300">
+<img src="HW2_result/result.gif" width="256" height="540">
