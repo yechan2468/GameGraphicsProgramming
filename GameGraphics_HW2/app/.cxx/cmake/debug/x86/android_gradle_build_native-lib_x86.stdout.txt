@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\YechanLee\AndroidStudioProjects\OpenGLES_HW2\app\.cxx\cmake\debug\x86'
+ninja: no work to do.

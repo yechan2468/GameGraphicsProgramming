@@ -1,0 +1,12 @@
+# ninja log v5
+14	3132	611600596	CMakeFiles/native-lib.dir/src/main/cpp/src/main.cpp.o	409654d9664f3612
+28	3141	611600596	CMakeFiles/native-lib.dir/src/main/cpp/src/camera.cpp.o	6bf791f91d2a1151
+18	3143	611600596	CMakeFiles/native-lib.dir/src/main/cpp/src/material.cpp.o	c3fc000108333275
+43	3154	611600596	CMakeFiles/native-lib.dir/src/main/cpp/src/light.cpp.o	639d2a789a99eda6
+3	3158	611600596	CMakeFiles/native-lib.dir/src/main/cpp/src/asset.cpp.o	8e5a7d704cc554bd
+10	3162	611600596	CMakeFiles/native-lib.dir/src/main/cpp/src/shader.cpp.o	b1922aafab5d976f
+34	3179	611600596	CMakeFiles/native-lib.dir/src/main/cpp/src/program.cpp.o	615710f80d5acfbc
+54	3240	611600596	CMakeFiles/native-lib.dir/src/main/cpp/src/texture.cpp.o	7615d200be739f95
+60	3496	611600596	CMakeFiles/native-lib.dir/src/main/cpp/src/object.cpp.o	1449bcb32bb63375
+23	5123	611600598	CMakeFiles/native-lib.dir/src/main/cpp/src/scene.cpp.o	fb256db67465fb28
+5123	5654	611600599	../../../../build/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	dafa182812bb88a8

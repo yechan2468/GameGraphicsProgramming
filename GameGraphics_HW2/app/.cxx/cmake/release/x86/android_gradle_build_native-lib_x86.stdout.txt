@@ -1,0 +1,12 @@
+ninja: Entering directory `C:\Users\YechanLee\AndroidStudioProjects\OpenGLES_HW2\app\.cxx\cmake\release\x86'
+[1/11] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/asset.cpp.o
+[2/11] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/light.cpp.o
+[3/11] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/shader.cpp.o
+[4/11] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/main.cpp.o
+[5/11] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/program.cpp.o
+[6/11] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/object.cpp.o
+[7/11] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/camera.cpp.o
+[8/11] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/texture.cpp.o
+[9/11] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/material.cpp.o
+[10/11] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/scene.cpp.o
+[11/11] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\release\obj\x86\libnative-lib.so
