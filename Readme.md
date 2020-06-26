@@ -1,11 +1,20 @@
-# Game Graphics Programming - Homework 2
+# Game Graphics Programming - Homework
 
 *****
 
-this homework is about rendering pipeline, texture, lighting, displacement mapping, and alpha blending.
 
-## result
+## Homework 1 result
 
 *****
+
+The homework 2 is about rendering pipeline, texture, lighting, displacement mapping, and alpha blending.
 
 <img src="HW2_result/result.gif" width="256" height="540">
+
+## Homework 1 result
+
+*****
+
+The homework 3 tests your understand about character animation, tessellation, and shadow mapping.
+
+<img src="HW3_result/HW3_result.gif" width="256" height="540">
